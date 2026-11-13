@@ -1,0 +1,14 @@
+name: example
+description: An example app demonstrating the compact_date_picker.
+publish_to: 'none' # Prevents accidental publishing of the example app
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Link to your local package
+  segmented_date_picker:
+    path: ../
