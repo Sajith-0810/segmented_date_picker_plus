@@ -1,4 +1,4 @@
-# Segmented Date Picker
+# Segmented Date Picker Plus
 
 A beautifully animated, compact, and fully customizable segmented date picker for Flutter.
 
@@ -18,4 +18,4 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  segmented_date_picker: ^1.0.0
+  segmented_date_picker_plus: ^1.0.0

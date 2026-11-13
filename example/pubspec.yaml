@@ -10,5 +10,5 @@ dependencies:
   flutter:
     sdk: flutter
   # Link to your local package
-  segmented_date_picker:
+  segmented_date_picker_plus:
     path: ../

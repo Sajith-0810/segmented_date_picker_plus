@@ -1,4 +1,4 @@
-name: segmented_date_picker
+name: segmented_date_picker_plus
 description: "A compact, animated Flutter date picker with independent year, month, and day selection and native showDatePicker-compatible parameters"
 version: 1.0.0
 homepage: https://github.com/Sajith-0810/segmented_date_picker.git

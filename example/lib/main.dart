@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:segmented_date_picker/segmented_date_picker.dart';
+import 'package:segmented_date_picker_plus/segmented_date_picker_plus.dart';
 
 void main() {
   runApp(const MyApp());

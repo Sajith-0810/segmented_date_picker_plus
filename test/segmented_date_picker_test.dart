@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:segmented_date_picker/segmented_date_picker.dart';
-// import 'package:compact_date_picker/compact_date_picker.dart'; // Update with your actual import
+import 'package:segmented_date_picker_plus/segmented_date_picker_plus.dart';
 
 void main() {
   group('showSegmentedDatePicker Widget Tests', () {
